@@ -1,0 +1,40 @@
+body {
+  background-color: #aeadf9;
+}
+
+
+/* Styling the Questions */
+.container {
+  background-color: #fff;
+  margin: 50px 100px;
+  padding: 30px;
+  border-radius: 25px;
+}
+
+.question-no {
+  color: #D43790;
+  font-family: 'Nova Oval', cursive;
+}
+
+.question-details {
+  color: #613659;
+  font-size: 30px;
+  font-family: 'Dekko', cursive;
+}
+
+
+/* Styling the correct answer */
+.correct {
+  color: #76B947;
+  font-size: 25px;
+  font-family: 'Harmattan', sans-serif;
+  padding: 2px;
+}
+
+/* Styling the wrong answer */
+.wrong {
+  color: #DF362D;
+  font-size: 25px;
+  font-family: 'Harmattan', sans-serif;
+  padding: 2px;
+}
